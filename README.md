@@ -40,11 +40,11 @@ The data was analyzed using Python and the following supporting libraries:
 
 ## Folders
 
-The project files are stored in following folders structure:
+The project files are stored in a folder "Exercise_4_Instacart_Basket_Analysis" with following structure:
 
 01 Project Management: Project brief.
 
-02 Data: Contains two subfolders: "Original_Data" (original datasets), "Prepared_Data" (cleaned datasets). Note: these files are not uploaded to GitHub due to size limitations.
+02 Data: Contains two subfolders: "Original_Data" (original data_sets), "Prepared_Data" (cleaned data_sets). Note: these files are not uploaded to GitHub due to size limitations.
 
 03 Scripts: Jupyter notebooks containing coding for the analysis.
 
