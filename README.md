@@ -53,7 +53,7 @@ The project files are stored in a folder "Exercise_4_Instacart_Basket_Analysis" 
 05 Sent to Client: The final report presented in Excel.
 
 ## Disclaimer
-The contents of this project have been created by CareerFoundry solely for the purpose of this exercise.
+The contents of this project have been created solely for the purpose of this exercise.
 
 All information presented are fictional and intended for educational demonstration only.
 
